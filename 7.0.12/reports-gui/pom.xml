@@ -98,7 +98,7 @@
 		<dependency>
 			<groupId>net.sourceforge.pmd</groupId>
 			<artifactId>pmd-core</artifactId>
-			<version>5.6.1</version>
+			<version>6.0.0</version>
 		</dependency>
 		<dependency>
 			<groupId>org.jmockit</groupId>

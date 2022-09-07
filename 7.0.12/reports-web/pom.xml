@@ -428,7 +428,7 @@
 		<dependency>
 			<groupId>com.vaadin</groupId>
 			<artifactId>vaadin-server</artifactId>
-			<version>8.6.4-23-cuba</version>
+			<version>8.14.1</version>
 		</dependency>
 		<dependency>
 			<groupId>org.hsqldb</groupId>
